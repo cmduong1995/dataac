@@ -1,2 +1,13 @@
-a
-b
+https://drive.google.com/file/d/1SjAPM727XrmHRxjAOynEDseerojIc5Bi/view?usp=sharing
+
+file=https://drive.google.com/file/d/1SjAPM727XrmHRxjAOynEDseerojIc5Bi/view?usp=sharing
+version=1.1
+
+
+CONFIG.JSON
+"auto_execute_path": "/storage/emulated/0/Arceus X/AutoExec",
+"launch_menu_before_game": false,
+"not_kill_ld_restart": true,
+"cpu_saver": false,
+"cpu_saver_level": 20,
+"ld_headless_path": "C:\Program Files\ldplayer9box\Ld9BoxHeadless.exe",
